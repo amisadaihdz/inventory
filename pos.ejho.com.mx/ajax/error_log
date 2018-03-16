@@ -1,0 +1,120 @@
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Warning:  include(../../inc/config.inc.php): failed to open stream: No such file or directory in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 3
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Warning:  include(../../inc/config.inc.php): failed to open stream: No such file or directory in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 3
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Warning:  include(): Failed opening '../../inc/config.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 3
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Notice:  Undefined variable: WBD in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 28
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 28
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 28
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Notice:  Undefined variable: WBD in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 29
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 29
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 29
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Notice:  Undefined variable: WBD in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 44
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 44
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 44
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Notice:  Undefined index: bSearchable_5 in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 85
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Notice:  Undefined variable: WBD in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 111
+[29-Jul-2017 03:02:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function SP() on null in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ejhocomm/proveedores.ejho.com.mx/ajax/AlumnosPorcampusDataTable.php on line 111
+[05-Feb-2018 13:19:33 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 13:22:55 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 13:22:55 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 11
+[05-Feb-2018 21:29:55 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 21:29:55 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 21:29:55 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 21:29:55 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 21:29:55 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 21:29:55 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 21:29:55 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 11
+[05-Feb-2018 21:31:19 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 21:31:19 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 21:31:19 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 21:31:19 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 21:31:19 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 21:31:19 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:00:31 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:00:31 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:00:31 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:00:31 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:00:31 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:00:31 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:04:02 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:04:02 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:04:02 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:04:02 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:04:02 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:04:02 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:05:09 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:05:09 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:05:09 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:05:09 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:05:09 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:05:09 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:13:42 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:13:42 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:13:42 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:13:42 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:13:42 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:13:42 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:15:15 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:15:15 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:15:15 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:15:15 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:15:15 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:15:15 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:21:04 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:21:05 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:21:05 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:21:05 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:21:05 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:21:05 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:21:05 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 11
+[05-Feb-2018 22:29:18 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:29:18 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:29:18 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:29:18 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:29:18 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:29:18 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:29:18 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 11
+[05-Feb-2018 22:31:27 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:31:27 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:31:27 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:31:27 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:31:27 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:31:27 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:41:20 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:41:20 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:41:20 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:41:20 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:41:20 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:41:20 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:46:24 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:46:25 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:46:25 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:46:25 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:46:25 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:46:25 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:53:02 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:53:02 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:53:02 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:53:02 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:53:02 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:53:02 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 22:57:40 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 22:57:40 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 22:57:40 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 22:57:40 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 22:57:40 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 22:57:40 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 23:10:44 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 23:10:44 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 23:10:44 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 23:10:44 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 23:10:44 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 23:17:15 America/Mexico_City] PHP Notice:  Undefined index: nombreprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 3
+[05-Feb-2018 23:17:15 America/Mexico_City] PHP Notice:  Undefined index: descprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 4
+[05-Feb-2018 23:17:15 America/Mexico_City] PHP Notice:  Undefined index: categprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 5
+[05-Feb-2018 23:17:15 America/Mexico_City] PHP Notice:  Undefined index: costoprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 6
+[05-Feb-2018 23:17:15 America/Mexico_City] PHP Notice:  Undefined index: precioprd in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 7
+[05-Feb-2018 23:17:15 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
+[05-Feb-2018 23:24:21 America/Mexico_City] PHP Notice:  Undefined index: sfile in /home/ejhocomm/pos.ejho.com.mx/ajax/guardaproducto.php on line 8
