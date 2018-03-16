@@ -19,11 +19,11 @@ include("Log.class.php");
 #Ruta Web
 #Descripcion : Ruta Raiz para el sistema
 
-$SERVER	    =	localhost;//"ejho.com.mx";
-$DATABASE	=	"ejhocomm_cobranza";
-$USER		=	"ejhocomm";
-$PASS		=	"Ada51ma1?";
-$PORT		=	"3306";
+$SERVER	    =	localhost;
+$DATABASE	=	"xxxx";
+$USER		=	"xxxx";
+$PASS		=	"xxxxxx";
+$PORT		=	"xxxx";
 
 
 
